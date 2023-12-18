@@ -1,0 +1,48 @@
+
+Student 1: Ahmed Hany Farouk Tawfik
+Student 2: Basma Hatem Farid Elhoseny
+
+Q1:
+
+The (243,) represents the number of words in the dataset (The size of the vocab).
+
+
+Q2:
+
+The (300,) represents here the dimension of the vector for each word embedding.
+(Each word is represented as a 300-dimensional vector.)
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes, Because the relation between Egypt and Cario is like the relation between Greece and Athens.
+
+
+Q4:
+
+Yes, Because the similarity is near 1 which means that the (Egypt,Cairo) are similar to each other.
+therefore the predicted country is the right one.
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The plot above represents the embed of the words.
+words that appear similar in context appear near to each other.
+for example country and continent appear near to each other as they are related to each other.
+it doesn't represent meaning as sad and happy are close to each other.
+it depends on the context.
+
