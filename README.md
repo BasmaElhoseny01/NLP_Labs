@@ -1,6 +1,6 @@
 # NLP_Labs
 
-#### Naturral Language Processing Course Labs 😎😊
+#### Natural Language Processing Course Labs 😎😊
  
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*YyGYRTDMcXkilzjGDnZavQ.jpeg"/>
 
